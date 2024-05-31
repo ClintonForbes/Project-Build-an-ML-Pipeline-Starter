@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/64efc425692846269c1457933432af7a/artifacts
+end_time: 1717192256186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64efc425692846269c1457933432af7a
+run_name: funny-seal-584
+run_uuid: 64efc425692846269c1457933432af7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717192093905
+status: 3
+tags: []
+user_id: clinton
