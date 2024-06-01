@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/02e8285cefd244bfa95069b49ed84a9f/artifacts
+end_time: 1717203514944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02e8285cefd244bfa95069b49ed84a9f
+run_name: nosy-conch-270
+run_uuid: 02e8285cefd244bfa95069b49ed84a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717203415433
+status: 4
+tags: []
+user_id: clinton

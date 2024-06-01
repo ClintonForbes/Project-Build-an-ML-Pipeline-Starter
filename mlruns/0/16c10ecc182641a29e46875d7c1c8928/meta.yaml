@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/16c10ecc182641a29e46875d7c1c8928/artifacts
+end_time: 1717208084908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16c10ecc182641a29e46875d7c1c8928
+run_name: gifted-steed-22
+run_uuid: 16c10ecc182641a29e46875d7c1c8928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717208020846
+status: 3
+tags: []
+user_id: clinton

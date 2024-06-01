@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6cae0ac07604147af97778301ce3317/artifacts
+end_time: 1717196516233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6cae0ac07604147af97778301ce3317
+run_name: resilient-bird-23
+run_uuid: c6cae0ac07604147af97778301ce3317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717196412539
+status: 4
+tags: []
+user_id: clinton

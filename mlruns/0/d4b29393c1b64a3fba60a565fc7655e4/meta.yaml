@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4b29393c1b64a3fba60a565fc7655e4/artifacts
+end_time: 1717208187757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4b29393c1b64a3fba60a565fc7655e4
+run_name: silent-fly-249
+run_uuid: d4b29393c1b64a3fba60a565fc7655e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717208085056
+status: 3
+tags: []
+user_id: clinton

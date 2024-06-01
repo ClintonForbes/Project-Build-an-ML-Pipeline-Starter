@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b0e677e3e9394916a5cc708a5201f6db/artifacts
+end_time: 1717196326191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0e677e3e9394916a5cc708a5201f6db
+run_name: dazzling-snipe-207
+run_uuid: b0e677e3e9394916a5cc708a5201f6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717196246010
+status: 4
+tags: []
+user_id: clinton

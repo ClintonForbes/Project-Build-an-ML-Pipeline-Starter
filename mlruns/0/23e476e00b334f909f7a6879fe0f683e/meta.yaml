@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/23e476e00b334f909f7a6879fe0f683e/artifacts
+end_time: 1717202911501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23e476e00b334f909f7a6879fe0f683e
+run_name: omniscient-shad-606
+run_uuid: 23e476e00b334f909f7a6879fe0f683e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717202813814
+status: 4
+tags: []
+user_id: clinton
