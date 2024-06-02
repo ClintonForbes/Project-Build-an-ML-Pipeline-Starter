@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clinton/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8df67b0293b848cc93f955c542dc88fb/artifacts
+end_time: 1717288926887
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8df67b0293b848cc93f955c542dc88fb
+run_name: angry-dog-496
+run_uuid: 8df67b0293b848cc93f955c542dc88fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717288781363
+status: 3
+tags: []
+user_id: clinton
